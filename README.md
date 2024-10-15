@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![]()
+<img src="./assets/feature.png" alt="feature-image" width="100%" />
 
 <div>
-<img align="right" src="./assets/feature.png" width="300px" alt="Girl sitting with a laptop and boosks"/>
+<img align="right" src="https://i.pinimg.com/564x/1a/b8/96/1ab8961e1180d3fa2d70484ba56d77be.jpg" width="300px" alt="Girl sitting with a laptop and boosks"/>
   <br>
 
 - 
