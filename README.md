@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
+![]()
 
 <div>
 <img align="right" src="https://i.pinimg.com/564x/1a/b8/96/1ab8961e1180d3fa2d70484ba56d77be.jpg" width="300px" alt="Girl sitting with a laptop and boosks"/>
